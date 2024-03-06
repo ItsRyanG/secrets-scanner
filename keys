@@ -1,0 +1,8 @@
+# This is an example, not an actual key.
+[default]
+aws_access_key_id = AKIAQ7BZ7EH6ZNUGH7OX
+aws_secret_access_key = 9xccVJes4sGz2dnAchQOOFQ6WMAjZzE8btjz7Btj
+
+[profile dev]
+aws_access_key_id = AKIAI44QH8DHBFAKEID
+aws_secret_access_key = je7MtGbClwBF/2Zp9Utk/h3yCo8nvbFAKEKEY
